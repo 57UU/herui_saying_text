@@ -10,6 +10,9 @@ This is a textfile containing HeRui's distinguished comment
 
 Access the URL`https://57uu.github.io/herui_saying_text/`,which will return lines of HeRui's saying,with split symbol`\n`
 
+# Demo
+
+[Build with React](https://57uu.github.io/herui_saying/)
 # Contribute
 
 Those sayings are stored in `index.html`
