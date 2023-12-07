@@ -1,6 +1,6 @@
 # Overview
 
-This is a textfile containing HeRui's distinguished comment
+This is a textfile containing HeRui's distinguished comments
 
 - you can get the latest version via the [link](https://57uu.github.io/herui_saying_text/)
 
