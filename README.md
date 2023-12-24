@@ -8,7 +8,7 @@ This is a textfile containing HeRui's distinguished comments
 
 # Basic API
 
-Access the URL`https://57uu.github.io/herui_saying_text/`,which will return lines of HeRui's saying,with split symbol`\n`
+Access the URL`https://the-brotherhood-of-scu.github.io/herui_saying_text/`,which will return lines of HeRui's saying,with split symbol`\n`
 
 # Attention
 line that starts with "#" should be viewed as a comment
