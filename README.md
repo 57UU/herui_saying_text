@@ -2,7 +2,7 @@
 
 This is a textfile containing HeRui's distinguished comments
 
-- you can get the latest version via the [link](https://github.com/The-Brotherhood-of-SCU/herui_saying_text)
+- you can get the latest version via the [link](https://the-brotherhood-of-scu.github.io/herui_saying_text/)
 
 - Or instead,you can simply use the code in `API` folder
 
