@@ -30,4 +30,4 @@ eg.
 机器一秒钟就做出来，学会了
 ```
 
-### This is a auto deploy repo. When `sayings.txt` changes, whe website will be generated and deployed as well. 
+### This is a auto deploy repo. When `sayings.txt` changes, the website will be generated and deployed as well. 
