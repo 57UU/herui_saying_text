@@ -10,7 +10,17 @@ This is a textfile containing HeRui's distinguished comments
 
 Access the URL`https://the-brotherhood-of-scu.github.io/herui_saying_text/`,which will return lines of HeRui's saying,with split symbol`\n`
 
-# Attention
+
+# Demo
+
+[Build with React](https://The-Brotherhood-of-SCU.github.io/herui_saying/)
+# Contribute
+
+Those sayings are stored in `sayings.txt`
+
+try to fork and then pull
+
+# Attention For `sayings.txt`
 line that starts with "#" should be viewed as a comment
 
 eg.
@@ -20,11 +30,4 @@ eg.
 机器一秒钟就做出来，学会了
 ```
 
-# Demo
-
-[Build with React](https://The-Brotherhood-of-SCU.github.io/herui_saying/)
-# Contribute
-
-Those sayings are stored in `index.html`
-
-try to fork and then pull
+### This is a auto deploy repo. When `sayings.txt` changes, whe website will be generated and deployed as well. 
