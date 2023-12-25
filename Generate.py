@@ -8,7 +8,7 @@ for i in f.readlines():
     result.append(i)
 f.close()
 
-os.makedirs("out")
+os.makedirs("out",exist_ok=True)
 f=open("out/index.html","w",encoding="utf-8")
 f.write("".join(result))
 f.close()
